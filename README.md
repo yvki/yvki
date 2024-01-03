@@ -58,7 +58,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;\
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
+![XCode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=xcode)&nbsp;\
 ![Adobe](https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobephotoshop)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS%20Cloudwatch-05122A?style=flat&logo=amazoncloudwatch)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS%20EC2-05122A?style=flat&logo=amazonec2)&nbsp;
@@ -70,6 +71,8 @@
 ![Eclipseide](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipseide)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea)&nbsp;
 ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![PP](https://img.shields.io/badge/-Microsoft%20Powerpoint-05122A?style=flat&logo=microsoftpowerpoint)&nbsp;
 ![PowerAutomate](https://img.shields.io/badge/-Microsoft%20Power%20Automate-05122A?style=flat&logo=powerautomate)&nbsp;
 ![Powershell](https://img.shields.io/badge/-Powershell-05122A?style=flat&logo=powershell)&nbsp;
@@ -79,6 +82,7 @@
 ![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)&nbsp;
 ![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat&logo=tkinter)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
+![TestFlight](https://img.shields.io/badge/-TestFlight-05122A?style=flat&logo=testflight)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 
 ### <img src="https://cultofthepartyparrot.com/parrots/matrixparrot.gif" width="30" height="30"/> GitHub Analytics
