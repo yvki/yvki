@@ -6,15 +6,18 @@
 </p>
 
 ### <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> About Me
-<img alt="sign" src="https://github.com/yvki/yvki/assets/66511759/6ddc7e29-3faa-4a58-b2e4-a1eee68210af" align="right" width="140" height="140"/>
+<img alt="sign" src="https://github.com/yvki/yvki/assets/66511759/6ddc7e29-3faa-4a58-b2e4-a1eee68210af" align="right" width="170" height="170"/>
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="30" height="30"/> I like to **explore new technologies**, and challenge myself in **translating data to useful insights**\
-<img src="https://cultofthepartyparrot.com/parrots/hd/autonomousparrot.gif" width="30" height="30"/> I'm currently in my **Sophomore** year, studying **Digital Supply Chain** at SIT\
-<img src="https://cultofthepartyparrot.com/parrots/uparrowparrot.gif" width="30" height="30"/> I'm on track for learning more about **Cyber Security Fundamentals** and **Software Engineering**\
+<img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="30" height="30"/> I like to **explore new technologies**, and **challenge myself in all things data (architecture, engineering, modelling, transformation)** to gain insights from complex situations
+
+<img src="https://cultofthepartyparrot.com/parrots/hd/autonomousparrot.gif" width="30" height="30"/> I'm currently in my **Sophomore** year, studying **Digital Supply Chain** at SIT
+
+<img src="https://cultofthepartyparrot.com/parrots/uparrowparrot.gif" width="30" height="30"/>I'm on track for learning more about ICT related module on **Machine Learning**; and Supply Chain related modules on **E-Commerce Logistics**, **Systems Modelling and Simulation**, and **Supply Chain Solutions Design**
+
 <img src="https://cultofthepartyparrot.com/parrots/hd/pokeparrot.gif" width="30" height="30"/> In my free time, I **do journaling**, **play** <img src="https://img.shields.io/badge/pokemon-%23FFCB05.svg?&style=for-the-badge&logo=pokemon&logoColor=black" />, and **watch** <img src="https://img.shields.io/badge/Hulu-1CE783?logo=hulu&logoColor=000&style=for-the-badge" alt="Hulu Badge"> and <img src="https://img.shields.io/badge/netflix-%23E50914.svg?&style=for-the-badge&logo=netflix&logoColor=white"/> 
 
 <details>
-  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif" width="30" height="30"/>  While coding, I enjoy <b>listening to music</b> on <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> and <img src="https://img.shields.io/badge/YouTube%20Music-F00?logo=youtubemusic&logoColor=fff&style=for-the-badge" alt="YouTube Music Badge"> </summary>
+  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif" width="30" height="30"/>  While coding, I also enjoy <b>listening to music</b> on <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> and <img src="https://img.shields.io/badge/YouTube%20Music-F00?logo=youtubemusic&logoColor=fff&style=for-the-badge" alt="YouTube Music Badge"> </summary>
   <br />
   <!--<img src="https://lastfm-recently-played.vercel.app/api?user=yapsaurus&show_user=header&bg_color=3A3A3A&count=10&footer_style=wave&border_radius=20"/>-->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=yapsaurus&count=10&unique=true"/>
@@ -100,7 +103,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yvki&theme=juicyfresh&title=Joined2020,Experience,Stars,Commits,PullRequest,Repositories,Issues&margin-w=5&row=1&column=7)](https://github.com/yvki/)
 
 <details>
-  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/sneezyparrot.gif" width="30" height="30"/><b> Other certifications, as listed in my LinkedIn</b>   </summary>
+  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/sneezyparrot.gif" width="30" height="30"/><b> External certifications as listed in my LinkedIn</b></summary>
   <br />
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Apple-000?logo=apple&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/CompTIA-C8202F?logo=comptia&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&logoColor=000&style=for-the-badge"/> <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge" /> <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Intel-0071C5?logo=intel&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=fff&style=for-the-badge"/>
 </details>
